@@ -1,5 +1,8 @@
-# CFData HK/SG 精选候选池，生成时间 2026-09-27T15:31:54.448Z
+# CFData HK/SG 精选候选池，生成时间 2026-09-27T15:55:14.825Z
 # 来源：最近 12 次达标结果 + lzj/luoli/xinyitang3/yutian 中明确标注 HK/SG 的端点
+8.222.70.238:443#历史达标 | HKG-SG
+39.109.50.142:443#历史达标 | HKG-HK
+191.223.217.68:8443#历史达标 | HKG-HK
 156.224.77.87:443#历史达标 | HKG-HK
 103.97.201.65:443#历史达标 | HKG-HK
 42.200.173.201:443#历史达标 | HKG-HK
@@ -27,7 +30,6 @@
 82.47.245.2:443#历史达标 | SIN-SG
 16.163.174.115:443#历史达标 | HKG-HK
 139.162.33.165:443#历史达标 | SIN-SG
-43.174.218.1:443#历史达标 | HKG-HK
 43.100.53.46:443#精选 lzj | 辣子鸡优选 | 中国香港 HK | 43.100.53.46:443
 43.103.4.68:443#精选 lzj | 辣子鸡优选 | 中国香港 HK | 43.103.4.68:443
 43.168.16.112:443#精选 lzj | 辣子鸡优选 | 中国香港 HK | 43.168.16.112:443
@@ -100,7 +102,6 @@
 8.219.185.66:443#精选 lzj | 辣子鸡优选 | 新加坡 SG | 8.219.185.66:443
 8.222.155.193:443#精选 lzj | 辣子鸡优选 | 新加坡 SG | 8.222.155.193:443
 8.222.229.117:443#精选 lzj | 辣子鸡优选 | 新加坡 SG | 8.222.229.117:443
-8.222.70.238:443#精选 lzj | 辣子鸡优选 | 新加坡 SG | 8.222.70.238:443
 8.222.84.103:443#精选 lzj | 辣子鸡优选 | 新加坡 SG | 8.222.84.103:443
 8.223.24.146:443#精选 lzj | 辣子鸡优选 | 新加坡 SG | 8.223.24.146:443
 8.223.26.112:443#精选 lzj | 辣子鸡优选 | 新加坡 SG | 8.223.26.112:443
@@ -143,3 +144,54 @@
 161.118.235.148:443#精选 yutian | YuTian优选 | 新加坡 SG | 161.118.235.148:443
 45.77.254.160:443#精选 yutian | YuTian优选 | 新加坡 SG | 45.77.254.160:443
 149.28.135.30:443#精选 yutian | YuTian优选 | 新加坡 SG | 149.28.135.30:443
+129.150.32.171:6443#精选 cmliu2 | CM优选 | 新加坡 SG | 129.150.32.171:6443
+103.142.131.77:20201#精选 cmliu2 | CM优选 | 中国香港 HK | 103.142.131.77:20201
+104.17.176.118:443#精选 wetest | 微测优选 | 移动 | HKG | 104.17.176.118
+104.17.16.24:443#精选 wetest | 微测优选 | 移动 | HKG | 104.17.16.24
+162.159.198.1:443#精选 gslege-SG | Gslege优选 SG | 09-27 12:01 | BestCF.pages.dev
+162.159.0.1:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 162.159.0.1
+162.159.0.5:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 162.159.0.5
+172.64.32.8:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 172.64.32.8
+172.64.32.3:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 172.64.32.3
+108.162.192.6:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 108.162.192.6
+162.159.0.8:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 162.159.0.8
+172.64.32.7:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 172.64.32.7
+172.64.32.6:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 172.64.32.6
+108.162.192.1:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 108.162.192.1
+172.64.32.1:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 172.64.32.1
+108.162.192.9:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 108.162.192.9
+108.162.192.5:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 108.162.192.5
+108.162.192.8:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 108.162.192.8
+172.64.32.2:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 172.64.32.2
+108.162.192.2:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 108.162.192.2
+108.162.192.7:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 108.162.192.7
+162.159.0.7:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 162.159.0.7
+108.162.192.3:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 108.162.192.3
+172.64.32.4:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 172.64.32.4
+108.162.192.4:443#精选 gslege-SG | Gslege优选 | sg 【新加坡】 SG | 108.162.192.4
+jebsen.com:443#精选 domain-asia | 亚洲域名 | 中国香港捷成
+www.transunion.hk:443#精选 domain-asia | 亚洲域名 | 中国香港环联
+tomleemusic.com.hk:443#精选 domain-asia | 亚洲域名 | 中国香港通利
+www.hthkh.com:443#精选 domain-asia | 亚洲域名 | 中国香港和记电讯
+www.caritas.org.hk:443#精选 domain-asia | 亚洲域名 | 中国香港明爱
+www.aeon.com.hk:443#精选 domain-asia | 亚洲域名 | 中国香港永旺
+www.aeon.info:443#精选 domain-asia | 亚洲域名 | 中国香港永旺
+news.cathaypacific.com:443#精选 domain-asia | 亚洲域名 | 香港国泰航空
+hongkongairport.com:443#精选 domain-asia | 亚洲域名 | 香港机场
+foodpanda.hk:443#精选 domain-asia | 亚洲域名 | 香港富胖达
+sasa.com:443#精选 domain-asia | 亚洲域名 | 中国香港莎莎
+www.stheadline.com:443#精选 domain-asia | 亚洲域名 | 香港星岛头条
+www.mplus.org.hk:443#精选 domain-asia | 亚洲域名 | 香港M+博物馆
+citysuper.com.hk:443#精选 domain-asia | 亚洲域名 | 中国香港CitySuper
+yesstyle.com:443#精选 domain-asia | 亚洲域名 | 中国香港YesStyle
+jobsdb.com:443#精选 domain-asia | 亚洲域名 | 中国香港JobsDB
+www.yata.hk:443#精选 domain-asia | 亚洲域名 | 中国香港一田百货
+pfizer.com.hk:443#精选 domain-asia | 亚洲域名 | 中国香港辉瑞
+cyberport.com.hk:443#精选 domain-asia | 亚洲域名 | 中国香港数码港
+www.dbs.com:443#精选 domain-asia | 亚洲域名 | 新加坡星展
+www.razer.com:443#精选 domain-asia | 亚洲域名 | 新加坡雷蛇
+ralphlauren.com.sg:443#精选 domain-asia | 亚洲域名 | 新加坡拉夫劳伦
+shoppes.marinabaysands.com:443#精选 domain-asia | 亚洲域名 | 新加坡金沙
+store.sony.com.sg:443#精选 domain-asia | 亚洲域名 | 新加坡索尼
+camperandnicholsons.com:443#精选 domain-asia | 亚洲域名 | 新加坡游艇
+drivewealth.com:443#精选 domain-asia | 亚洲域名 | 新加坡金融
